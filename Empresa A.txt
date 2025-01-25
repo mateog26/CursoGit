@@ -3,3 +3,6 @@ Estoy realizando un CLON de un curso de Git para aprender
 
 *****
 Aprendiendo 
+
+*****
+Es útil hacer pequeñas modificaciones desde GITHUB
