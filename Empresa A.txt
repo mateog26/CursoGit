@@ -1,2 +1,5 @@
 Hola, 
 Estoy realizando un CLON de un curso de Git para aprender
+
+*****
+Aprendiendo 
